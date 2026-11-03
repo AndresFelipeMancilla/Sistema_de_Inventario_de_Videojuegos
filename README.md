@@ -1,3 +1,5 @@
+# Estudiante: Andrés Felipe Mancilla Santiago
+DESARROLLO DE APLICACIONES CON ACCESO A DATOS - 4E 20262
 # Sistema de Inventario de Videojuegos
 
 Aplicación de consola desarrollada en Python utilizando una arquitectura por capas (Modelo, DAO, Servicios y Base de Datos) conectada a SQLite, aplicando buenas prácticas y el patrón DAO
