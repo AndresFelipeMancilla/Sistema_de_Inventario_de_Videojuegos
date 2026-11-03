@@ -9,7 +9,7 @@ Aplicación de consola desarrollada en Python utilizando una arquitectura por ca
 - `producto_servicio.py`: Maneja las reglas de negocio y las validaciones
 - `main.py`: Contiene el menu interactivo de consola
 
-## Cómo Ejecutar
-Asegúrate de tener Python instalado y ejecuta el archivo principal:
+## Como Ejecutar
+Ejecuta el archivo principal usando python:
 ```bash
 python main.py
